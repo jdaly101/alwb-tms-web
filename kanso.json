@@ -1,0 +1,22 @@
+{
+	"name" : "TMS",
+	"version" : "0.0.1",
+	"description" : "AGES Initiative Translation Management System",
+	"attachments" : "static",
+	"load" : "lib/app",
+	"modules" : "lib",
+	"dust" : {
+		"templates" : "templates"
+	},
+	"duality" : {
+		"base_template" : "base.html"
+	},
+	"dependencies" : {
+		"properties" : null,
+		"modules" : null,
+		"attachments" : null,
+		"duality" : null,
+		"dust" : null,
+		"duality-dust" : null
+	}
+}
