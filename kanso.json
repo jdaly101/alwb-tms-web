@@ -15,8 +15,11 @@
 		"properties" : null,
 		"modules" : null,
 		"attachments" : null,
+		"users" : null,
+		"session" : null,
 		"duality" : null,
 		"dust" : null,
-		"duality-dust" : null
+		"duality-dust" : null,
+		"couchtypes" : null
 	}
 }
